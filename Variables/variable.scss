@@ -1,0 +1,12 @@
+
+
+$variableName-color :green;
+$paragraph-color: blue;
+
+h1{
+  color: $variableName-color;
+}
+
+p{
+  color: $paragraph-color;
+}
